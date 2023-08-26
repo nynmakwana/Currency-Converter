@@ -1,5 +1,5 @@
 # Currency-Converter
-## This project made by group of 2 students of GSFC Unviersity for JAVA Assignmet.
+## This project made by group of 2 students of GSFC Unviersity for JAVA Assignment.
 ## About Project
 
 - It Converts Currency based on pre-defined values.
